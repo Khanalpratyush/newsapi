@@ -7,4 +7,3 @@ yfinance
 textblob
 aiohttp
 certifi
-ssl
