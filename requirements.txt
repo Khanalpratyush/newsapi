@@ -1,0 +1,9 @@
+aiohttp
+beautifulsoup4
+feedparser
+fastapi
+uvicorn
+python-dotenv
+requests
+brotli
+certifi
